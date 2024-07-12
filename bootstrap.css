@@ -1,0 +1,61 @@
+*{
+    color: black !important;
+}
+    
+
+.navbar{
+
+    background: linear-gradient(
+        90deg,
+        rgba(0, 0, 0, 1) 65%,
+        rgba(40, 4, 106, 1) 100%
+      );
+      top: 0;
+      position: sticky !important;
+      z-index: 1;
+      
+}
+
+:hover{
+    transition: 0.2s;
+}
+.btn{
+    background: linear-gradient(
+    90deg,
+    rgba(40, 4, 106, 1) 0%,
+    rgba(0, 0, 0, 1) 52%
+  );
+  outline: none !important;
+
+}
+.form-control{
+    background: linear-gradient(
+        90deg,
+        rgba(40, 4, 106, 1) 0%,
+        rgba(0, 0, 0, 1) 52%
+      );
+      color: #6d95fc;
+   border: 1px solid #6d95fc !important;
+}
+
+ .fa-solid{
+    color: #6d95fc;
+ }
+
+.hero-section{
+    background: linear-gradient(
+        90deg,
+        rgba(40, 4, 106, 1) 0%,
+        rgba(0, 0, 0, 1) 28%
+      );
+}
+
+
+
+ .footer{
+    background-color: black;
+    min-height: 15vh;
+ }
+ image :hover{
+    transition: 1s;
+ }
